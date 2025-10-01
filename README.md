@@ -95,3 +95,15 @@ It provides a 360° view of sales trends, item performance, outlet segmentation,
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/blinkit-sales-dashboard.git
+2. Open the `.pbix` file from the `dashboards/` folder in **Power BI Desktop**.  
+3. Load the dataset from the `data/` folder.  
+4. Interact with the dashboard using slicers, filters, and drill-through options to explore insights.
+
+---
+
+## 👩‍💻 Author
+**Manisha Linguntla**  
+🔗 [LinkedIn](https://www.linkedin.com/in/manisha-linguntla/) | 🔗 [GitHub](https://github.com/manishalinguntla2808)
+
+---
+
