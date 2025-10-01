@@ -20,7 +20,10 @@ It provides a 360° view of sales trends, item performance, outlet segmentation,
 ## 📊 Dashboard Features
 
 ### 🔹 KPI Highlights
-![KPIs](images/KPIs.png)  
+![KPIs Total Sales](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Total%20SAles.png)
+![KPIs Average Sales per Item](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Average%20Sales.png)
+![KPIs Number of Items](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/No%20of%20Items.png)
+![KPIs Average Rating](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Average%20Rating.png)
 - **Total Sales**: `$1.20M`  
 - **Average Sales per Item**: `$141`  
 - **Number of Items**: `8,523`  
@@ -29,7 +32,7 @@ It provides a 360° view of sales trends, item performance, outlet segmentation,
 ---
 
 ### 🔹 Product Analysis
-![Item Sales](images/Item_Type.png)  
+![Item Sales](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Fat%20Content.png)  
 - Sales by **Fat Content**:  
   - Regular: `$776.32K`  
   - Low Fat: `$425.36K`  
@@ -39,21 +42,21 @@ It provides a 360° view of sales trends, item performance, outlet segmentation,
 
 ### 🔹 Outlet Analysis
 #### By Size
-![Outlet Size](images/Outlet_Size.png)  
+![Outlet Size](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Outlet%20Size.png)  
 
 - Medium Outlets: `$507.90K` (highest)  
 - Small Outlets: `$444.79K`  
 - High Outlets: `$248.90K`  
 
 #### By Location Tier
-![Outlet Location](images/Outlet_Location.png)  
+![Outlet Location](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Outlet%20Location.png)  
 
 - Tier 3: `472.13K`  
 - Tier 2: `393.15K`  
 - Tier 1: `336.40K`  
 
 #### By Type
-![Outlet Type](images/Outlet_Type.png)  
+![Outlet Type](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Outlet%20Type.png)  
 
 - Grocery Store: `$151.94K`  
 - Supermarket Type 1: `$787.58K` (highest)  
@@ -63,7 +66,7 @@ It provides a 360° view of sales trends, item performance, outlet segmentation,
 ---
 
 ### 🔹 Trend Analysis
-![Outlet Establishment Trend](images/Outlet_Trend.png)  
+![Outlet Establishment Trend](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Outlet%20Establishment.png)  
 
 - Sales trend from **2010–2020**  
 - Peak observed around **2018–2019**, then stabilized  
