@@ -4,7 +4,7 @@
 This project presents a **Power BI dashboard** analyzing sales and performance data for **Blinkit (India's Last Minute App)**.  
 It provides a 360° view of sales trends, item performance, outlet segmentation, and customer ratings, enabling stakeholders to make data-driven decisions.  
 
-![Dashboard Overview](images/Dashboard.png)
+![Dashboard Overview](https://github.com/manishalinguntla2808/Blinkit-Sales-Analysis/blob/main/Images/Dashboard.png)
 
 ---
 
